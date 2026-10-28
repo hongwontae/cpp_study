@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="cpp_basic/cpp_basic.vcxproj" />
+  <Project Path="cpp_basic_usage/cpp_basic_usage.vcxproj" />
 </Solution>
