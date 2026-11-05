@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="auto_test.cpp" />
+    <ClCompile Include="bit_flag_bit_mask_test.cpp" />
     <ClCompile Include="connection_test_1.cpp" />
     <ClCompile Include="connection_test_2.cpp" />
     <ClCompile Include="name_space_test.cpp" />
