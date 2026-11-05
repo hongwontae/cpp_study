@@ -24,6 +24,7 @@
     <ProjectGuid>{1fcb7b32-a831-4132-b976-98d58b5314a3}</ProjectGuid>
     <RootNamespace>cppbasicusage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>02_cpp_basic_usage</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,9 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cpp_input_output.cpp" />
+    <ClCompile Include="1_cpp_input_output.cpp" />
+    <ClCompile Include="2_cpp_fun.cpp" />
+    <ClCompile Include="3_cpp_local_scope.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

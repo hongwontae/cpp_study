@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_basic/cpp_basic.vcxproj" />
-  <Project Path="cpp_basic_usage/cpp_basic_usage.vcxproj" />
+  <Project Path="03_cpp_variable_scope_more_data_type/03_cpp_variable_scope_more_data_type.vcxproj" Id="913b15a8-7574-4325-b00c-07705cb31fc8" />
+  <Project Path="cpp_basic/cpp_basic.vcxproj" Id="7b86a5de-4258-493e-89d7-49bfc34f9a78" />
+  <Project Path="cpp_basic_usage/cpp_basic_usage.vcxproj" Id="1fcb7b32-a831-4132-b976-98d58b5314a3" />
 </Solution>

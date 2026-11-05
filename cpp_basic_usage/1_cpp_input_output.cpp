@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 
-int main()
+int main_1()
 {
     using namespace std;
 
@@ -18,7 +18,7 @@ int main()
     cin >> x;
     cout << "나이는" << x << "입니다.\n";
 
-
+    return 0;
     
 }
 

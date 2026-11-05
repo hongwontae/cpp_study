@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp_input_output.cpp">
+    <ClCompile Include="1_cpp_input_output.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_cpp_fun.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3_cpp_local_scope.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
