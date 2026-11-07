@@ -7,4 +7,5 @@
   <Project Path="02_cpp_basic_usage/cpp_basic_usage.vcxproj" Id="1fcb7b32-a831-4132-b976-98d58b5314a3" />
   <Project Path="03_cpp_variable_scope_more_data_type/03_cpp_variable_scope_more_data_type.vcxproj" Id="913b15a8-7574-4325-b00c-07705cb31fc8" />
   <Project Path="04_cpp_random_test/04_cpp_random_test.vcxproj" Id="c03e16fc-57d0-4b44-a84e-4efcb2ff7cc1" />
+  <Project Path="05_arr_string_pointer_reference/05_arr_string_pointer_reference.vcxproj" Id="5c746b93-576c-49fd-8350-7bea20afd323" />
 </Solution>
