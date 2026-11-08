@@ -145,6 +145,7 @@
     <ClCompile Include="4_arr_bubble_sort.cpp" />
     <ClCompile Include="5_mutil_arr.cpp" />
     <ClCompile Include="6_pointer_test.cpp" />
+    <ClCompile Include="7_pointer_test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arr_test.h" />

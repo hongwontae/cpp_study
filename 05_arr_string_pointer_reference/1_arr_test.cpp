@@ -29,6 +29,7 @@ int main(void) {
 	//bubble_sort_test();
 	//multi_arr_test();
 	//pointer_test();
+	pointer_test_2();
 
 
 	return 0;
